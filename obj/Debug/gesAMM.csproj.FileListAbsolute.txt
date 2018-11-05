@@ -1,0 +1,12 @@
+C:\Users\certainm\Documents\ppe3\03-gesAMM\gesAMM\gesAMM\bin\Debug\gesAMM.exe.config
+C:\Users\certainm\Documents\ppe3\gesAMM\gesAMM\bin\Debug\gesAMM.exe.config
+C:\Users\certainm\Documents\ppe3\gesAMM\gesAMM\bin\Debug\gesAMM.exe
+C:\Users\certainm\Documents\ppe3\gesAMM\gesAMM\bin\Debug\gesAMM.pdb
+C:\Users\certainm\Documents\ppe3\gesAMM\gesAMM\obj\Debug\gesAMM.csprojResolveAssemblyReference.cache
+C:\Users\certainm\Documents\ppe3\gesAMM\gesAMM\obj\Debug\gesAMM.ConsultationNombreMedicamentsFamille.resources
+C:\Users\certainm\Documents\ppe3\gesAMM\gesAMM\obj\Debug\gesAMM.Form1.resources
+C:\Users\certainm\Documents\ppe3\gesAMM\gesAMM\obj\Debug\gesAMM.Properties.Resources.resources
+C:\Users\certainm\Documents\ppe3\gesAMM\gesAMM\obj\Debug\gesAMM.csproj.GenerateResource.Cache
+C:\Users\certainm\Documents\ppe3\gesAMM\gesAMM\obj\Debug\gesAMM.exe
+C:\Users\certainm\Documents\ppe3\gesAMM\gesAMM\obj\Debug\gesAMM.pdb
+C:\Users\certainm\Documents\ppe3\gesAMM\gesAMM\obj\Debug\gesAMM.SaisieDecisionEtape.resources
